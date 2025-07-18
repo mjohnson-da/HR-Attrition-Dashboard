@@ -42,7 +42,9 @@ An interactive executive-level Power BI dashboard that analyzes employee attriti
 - DAX for custom measures
 - Data cleaning & modeling using Power BI query editor
 ---
+📥 [Download HR Attrition Dashboard (.pbix)](HR%20Attrition%20Dashboard.pbix?raw=true)
 
+![HR Attrition Dashboard Preview](Dashboard%20Preview.png)
 
 ---
 
