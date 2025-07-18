@@ -43,7 +43,6 @@ An interactive executive-level Power BI dashboard that analyzes employee attriti
 - Data cleaning & modeling using Power BI query editor
 ---
 
-![Dashboard Preview](dashboard-preview.png)
 
 ---
 
