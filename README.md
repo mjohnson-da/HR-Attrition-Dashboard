@@ -1,6 +1,11 @@
-# 📊 HR Attrition Dashboard (Power BI)
+# 🏢 HR Attrition Dashboard
 
-An interactive executive-level Power BI dashboard that analyzes employee attrition using the IBM HR Analytics Employee Attrition dataset. This project focuses on identifying patterns, trends, and risk factors driving employee turnover, and helps business leaders make data-backed retention decisions.
+![HR Attrition Dashboard Preview](Dashboard%20Preview.png)
+
+📥 [Download HR Attrition Dashboard (.pbix)](HR%20Attrition%20Dashboard.pbix?raw=true)  
+Requires Power BI Desktop to view.
+
+This dashboard analyzes attrition trends using employee data, helping HR teams uncover key drivers of turnover across departments, roles, and tenure levels.
 
 ---
 
@@ -42,11 +47,7 @@ An interactive executive-level Power BI dashboard that analyzes employee attriti
 - DAX for custom measures
 - Data cleaning & modeling using Power BI query editor
 ---
-📥 [Download HR Attrition Dashboard (.pbix)](HR%20Attrition%20Dashboard.pbix?raw=true)
 
-![HR Attrition Dashboard Preview](Dashboard%20Preview.png)
-
----
 
 ## 👤 Author
 **[Morgan Johnson]**  
