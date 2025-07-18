@@ -50,6 +50,6 @@ An interactive executive-level Power BI dashboard that analyzes employee attriti
 **[Morgan Johnson]**  
 Conscientious and inquisitive data analyst with strong skills in Power BI, DAX, storytelling, and HR data insights.
 
-📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio]([Portfolio](https://data-analysis-by-morgan.super.site/)
+📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio](https://data-analysis-by-morgan.super.site/)
 
 )
