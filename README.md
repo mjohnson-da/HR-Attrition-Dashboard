@@ -34,10 +34,10 @@ This dashboard analyzes attrition trends using employee data, helping HR teams u
 
 ## 💡 Key Insights
 
-- Sales and HR have highest attrition rates
-- Most employees leave within 0–2 years of last promotion
+- Sales and HR have the highest attrition rates
+- Most employees leave within 0–2 years of their last promotion
 - Newer employees under newer managers are more likely to leave
-- Age range 30–40 shows the highest turnover risk
+- The age range 30–40 shows the highest turnover risk
 - Monthly income has a moderate correlation with retention
 
 ---
@@ -53,6 +53,6 @@ This dashboard analyzes attrition trends using employee data, helping HR teams u
 **[Morgan Johnson]**  
 Conscientious and inquisitive data analyst with strong skills in Power BI, DAX, storytelling, and HR data insights.
 
-📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio](https://data-analysis-by-morgan.super.site/)
+📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio](https://data-analysis-by-morgan.notion.site/Portfolio-232658778d2e80a5a909c8f554373d0b)
 
 
